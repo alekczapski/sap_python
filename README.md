@@ -6,7 +6,7 @@ On my work account I don't have administrative rights and access to SAP NetWeave
 
 If you have questions, please contact me:
 * Email: {github account}@gmail (dot) com
-* LinkedIn: https://www.linkedin.com/in/aleksander-czapski/
+* LinkedIn: https://www.linkedin.com/in/alekczapski/
 
 ## Table of contents
 
